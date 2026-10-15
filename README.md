@@ -1,7 +1,7 @@
 # MAT2007-Project
 Introduction to Programming Project - Snake Venoms
 
-This project does the statistical analysis of a dataset dowloaded from Kaggle Venomous Snakes.csv. It looks into the distribution of snake venom toxicity across various species and questions whether there is a relationship between aggressive behaviour and venom toxicity.
+This project does the statistical analysis of a dataset dowloaded from Kaggle Venomous: Snakes.csv. It looks into the distribution of snake venom toxicity across various species and questions whether there is a relationship between aggressive behaviour and venom toxicity.
 
 What is needed to run this code:
 - Python 3
